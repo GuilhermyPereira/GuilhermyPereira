@@ -14,6 +14,6 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/typescript/typescript-original.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermypereira&show_icons=true&locale=en&layout=compact" alt="guilhermypereira" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermyPereira&layout=compact&theme=dracula" alt="guilhermypereira" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermypereira&show_icons=true&locale=en" alt="guilhermypereira" /></p>
