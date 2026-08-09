@@ -14,5 +14,4 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/typescript/typescript-original.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuilhermyPereira&theme=dracula)" alt="guilhermypereira" /></p>
-
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuilhermyPereira&theme=dracula)
