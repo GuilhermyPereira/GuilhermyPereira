@@ -1,13 +1,12 @@
 <h1 align="center">Olá, eu sou o Guilhermy</h1>
 <h3 align="center">Um mero estudante de Engenharia de Computação.</h3>
 
-- 📖 Atualmente estou aprendendo **Kotlin, React, Node.js, JavaScript, TypeScript**
+- 📖 Atualmente estou aprendendo **Rust**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/guilelmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guilelmy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/guilhermy-pereira-aq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilhermypereira" height="30" width="40" /></a>
-<a href="https://instagram.com/guilelmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guilelmy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/guilhermy-pereira-aq" target="blank"><img align="center" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMy0xMC5wbmc.png" alt="guilhermypereira" height="30" width="40" /></a>
+<a href="https://instagram.com/guilelmy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" alt="guilelmy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
